@@ -38,8 +38,6 @@ class Solution:
         return self.count
     
 
-
-
 if __name__ == "__main__":
     s = Solution()
     n = 3
